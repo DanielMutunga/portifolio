@@ -37,6 +37,21 @@
     font-size: 45px;
     font-weight: 500;
 }
+.addition{
+    position: absolute;
+    top: 5%;
+    right: 15%;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    background-color: yellowgreen;
+    padding: 8px 8px;
+    border: none;
+}
+.addition:hover{
+    color: yellowgreen;
+    background-color: white;
+}
 /* End of section one */
 
 /* Start of section Two */
